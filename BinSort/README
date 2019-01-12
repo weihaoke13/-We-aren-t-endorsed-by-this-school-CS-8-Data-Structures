@@ -1,0 +1,5 @@
+1. Correct the program written in class so that the binsort of integers works correctly for both ascending and descending sorts. No if statements or ternary operators are allowed.
+
+2, Modify the above to work for strings.
+
+3. Create a version that will work for doubles (ex: 3.14, 3.145, 3.145, etc)
