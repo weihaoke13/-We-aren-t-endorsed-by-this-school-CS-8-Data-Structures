@@ -1,0 +1,4 @@
+Correct the program as given in class.
+Take the stack template as written in class, which uses an array which was developed internally to the class to implement the stack, and make it work correctly with linked-lists to implement the stack (instead of being based upon a dynamic array the stack is now based upon an linked-list). This means that there will be two versions of the templated stack, one which is based upon arrays and one which is based upon a linked-list.
+Then convert the linked-list stack so that it inherits from a static singly linked-list base class. (Users of the stack have no need to know how it is implemented.) In other words, split the stack class into two classes: a base class class which is a linked-list and a derived class which is the stack. (NOTE: Pointers of type void will be needed for this!)
+You will need to specialize all templates for certain data types, such as C++ strings, C strings, etc..
