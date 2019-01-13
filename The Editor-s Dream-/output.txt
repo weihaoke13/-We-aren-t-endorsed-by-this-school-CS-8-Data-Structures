@@ -1,0 +1,1543 @@
+Word                     Frequency Line Numbers
+                         -842150436338 393 405 432 464 475 475 488 494 509 
+A                        8         4 109 120 186 222 425 441 664 
+Above                    2         144 187 
+Adventure                1         8 
+Africa                   1         701 
+Ah                       2         219 584 
+Aha                      1         528 
+All                      2         181 499 
+Already                  1         645 
+An                       1         597 
+And                      7         157 261 304 314 452 479 535 
+Anyone                   1         379 
+Archive                  1         5 
+As                       9         77 217 259 277 279 659 677 712 736 
+At                       2         70 513 
+BBS                      1         4 
+Baker                    1         52 
+Bannis                   1         130 
+Bannister                20        81 104 114 165 167 296 348 353 491 562 
+Bannisters               2         576 613 
+Blue                     1         326 
+But                      9         159 345 362 488 504 526 552 579 704 
+By                       2         207 505 
+Can                      3         448 518 713 
+Certainly                1         519 
+College                  1         30 
+Come                     5         421 588 619 709 736 
+Could                    1         731 
+Daulat                   2         151 332 
+Dear                     2         195 260 
+Did                      3         163 165 369 
+Do                       1         139 
+Dreamlands               1         2 
+Earths                   1         2 
+Eh                       1         537 
+Either                   1         140 
+English                  1         26 
+Evidently                1         121 
+Exactly                  3         100 304 347 
+Excellent                1         125 
+Faber                    1         251 
+File                     1         5 
+For                      6         64 78 104 155 615 737 
+Fortescue                1         59 
+Fortune                  1         127 
+From                     1         626 
+GM                       1         5 
+Gilchrist                12        324 328 450 594 602 605 609 615 651 690 
+Gilchrists               2         424 723 
+Gloves                   1         672 
+Good                     3         295 455 694 
+Goodbye                  1         469 
+Gothic                   1         186 
+Greek                    3         60 61 334 
+Had                      1         149 
+Halloa                   2         282 414 
+Has                      1         375 
+Have                     4         267 316 522 690 
+He                       35        54 105 114 168 193 212 224 253 293 327 
+Here                     2         28 698 
+Hilton                   1         29 
+His                      5         85 87 327 351 599 
+Holmes                   47        11 25 36 49 58 75 97 100 125 140 
+Holmess                  2         433 447 
+How                      5         100 221 367 371 635 
+I                        178       10 13 20 31 36 39 40 40 41 49 
+If                       4         272 556 630 724 
+Ill                      2         401 559 
+In                       2         541 591 
+Indian                   9         151 173 332 415 432 450 471 479 630 
+Indians                  1         333 
+Is                       2         252 418 
+It                       20        10 14 188 233 250 261 284 320 362 366 
+Jabez                    2         328 717 
+Johann                   2         251 253 
+Jove                     1         505 
+Just                     1         602 
+Kindly                   1         561 
+Latticepaned             1         302 
+Let                      5         210 219 309 322 738 
+Listen                   1         623 
+Look                     2         236 531 
+Lukes                    3         30 38 518 
+Many                     1         481 
+McLaren                  1         337 
+Meanwhile                1         463 
+Miles                    1         337 
+Mr                       37        11 29 30 36 49 58 75 100 140 173 
+My                       4         51 60 328 501 
+NN                       2         244 250 
+Near                     1         209 
+No                       30        44 161 162 164 166 166 220 230 247 256 
+Nos                      1         536 
+Not                      2         133 180 
+Nothing                  2         569 570 
+Now                      10        93 131 182 257 347 408 564 593 602 612 
+Of                       3         210 442 650 
+Oh                       2         399 402 
+On                       4         119 186 532 632 
+One                      3         203 320 414 
+Only                     2         395 436 
+Our                      1         455 
+Pencils                  1         487 
+Perhaps                  2         270 621 
+Police                   1         701 
+Possibly                 1         160 
+Pray                     1         102 
+Quite                    1         475 
+RPGNet                   1         5 
+Ras                      2         151 332 
+Really                   1         449 
+Rhodesia                 1         737 
+Rhodesian                1         701 
+Roughly                  1         259 
+                         -842150451
+                         -842150451
+                         -842150451
+                         -842150451
+Rugby                    1         325 
+Scholarship              1         59 
+Shall                    2         549 622 
+Sherlock                 2         11 25 
+Sir                      2         328 717 
+Site                     1         5 
+So                       6         16 177 298 385 485 493 
+Soames                   27        29 30 173 182 217 237 241 264 288 318 
+Soamess                  2         366 580 
+South                    1         701 
+St                       3         30 37 517 
+Stand                    1         592 
+Street                   1         52 
+Students                 1         8 
+Such                     2         383 641 
+Suddenly                 1         678 
+Surely                   1         300 
+Thank                    2         402 548 
+That                     4         366 389 452 682 
+Thats                    1         493 
+The                      32        8 68 79 91 92 98 107 149 184 199 
+Then                     9         173 190 223 344 373 377 395 652 726 
+There                    11        136 193 249 426 476 481 497 583 587 678 
+This                     7         62 129 232 257 419 503 656 
+Three                    2         8 410 
+Thucydides               1         69 
+Time                     1         716 
+To                       3         158 266 439 
+Today                    1         67 
+Tomorrow                 1         458 
+Up                       1         584 
+Very                     2         408 465 
+Was                      1         360 
+Wasnt                    1         728 
+Watson                   11        181 233 249 474 503 507 517 525 537 558 
+We                       8         24 37 200 353 467 494 604 605 
+Well                     14        180 196 219 220 231 474 494 517 537 572 
+What                     9         250 269 271 289 293 507 549 656 671 
+Whats                    3         282 414 491 
+When                     9         45 237 364 368 381 470 572 638 718 
+Where                    4         167 264 385 388 
+Which                    2         205 477 
+Who                      1         490 
+Whom                     1         397 
+Why                      6         388 390 479 491 493 534 
+With                     1         17 
+Without                  1         52 
+Would                    1         591 
+Yes                      13        151 156 312 315 355 359 378 380 383 525 
+You                      26        75 100 140 170 205 209 227 246 250 272 
+Your                     4         47 204 287 413 
+a                        127       10 16 22 24 28 30 31 33 36 37 
+able                     1         520 
+abortive                 1         436 
+about                    11        14 67 87 132 152 236 271 366 392 451 
+above                    3         82 233 410 
+abrupt                   1         457 
+absent                   2         72 368 
+absolutely               2         70 82 
+absurd                   1         642 
+accident                 1         431 
+accidentally             1         175 
+accuse                   1         620 
+acquaintance             1         29 
+acquiescence             1         55 
+across                   1         214 
+action                   5         401 458 463 606 714 
+add                      4         237 569 686 694 
+additional               1         239 
+admit                    2         303 579 
+advance                  1         64 
+advantage                3         63 111 704 
+adventure                2         13 267 
+advice                   1         147 
+afraid                   1         203 
+after                    6         81 150 245 322 513 613 
+afternoon                1         657 
+again                    3         45 232 470 
+agile                    1         598 
+agita                    1         540 
+agitation                2         33 545 
+agreed                   1         499 
+aid                      2         41 239 
+alarm                    1         722 
+alertness                1         278 
+all                      19        79 93 129 144 295 314 341 377 413 464 
+allow                    1         459 
+allowed                  1         17 
+allowing                 1         543 
+allusion                 1         512 
+alone                    1         603 
+along                    2         421 537 
+aloud                    1         455 
+already                  1         188 
+also                     6         121 469 479 536 630 729 
+alternative              2         107 300 
+always                   3         31 249 666 
+alying                   1         723 
+am                       15        14 40 59 106 130 135 203 262 549 579 
+amaze                    1         100 
+amazed                   1         77 
+amiss                    1         404 
+amounts                  1         173 
+amused                   1         639 
+an                       30        29 54 63 72 78 104 110 111 151 179 
+ancient                  1         185 
+and                      128       11 12 16 29 31 38 40 45 48 53 
+andnothing               1         437 
+anger                    1         441 
+angle                    1         304 
+angry                    1         439 
+another                  1         300 
+answer                   1         623 
+answered                 2         41 419 
+any                      12        14 21 88 204 227 256 316 316 400 403 
+anyhow                   1         219 
+anyone                   4         149 163 272 440 
+anything                 3         404 482 522 
+appear                   2         260 501 
+appearance               1         563 
+appeared                 1         415 
+approached               3         77 190 638 
+arched                   1         186 
+architectural            1         433 
+architecture             1         427 
+are                      24        48 75 75 142 203 249 251 310 310 312 
+argument                 1         535 
+armchair                 1         559 
+arrived                  1         67 
+as                       36        21 22 47 48 69 80 126 137 148 159 
+ask                      4         152 593 595 667 
+askance                  1         433 
+asked                    2         448 474 
+astonishment             1         455 
+at                       42        24 30 37 39 91 109 109 137 182 189 
+athletc                  1         325 
+athlete                  1         689 
+athletic                 2         657 686 
+attend                   1         404 
+attention                2         126 263 
+attitude                 1         278 
+avoid                    2         20 47 
+awaits                   2         736 737 
+aware                    6         75 91 227 251 277 659 
+away                     3         268 281 688 
+babbled                  1         506 
+back                     6         291 372 562 580 607 677 
+bad                      3         386 393 438 
+baize                    1         76 
+ball                     1         133 
+be                       35        14 16 17 18 27 32 45 63 69 141 
+became                   1         126 
+because                  3         213 389 719 
+become                   1         556 
+bed                      4         273 529 592 685 
+bedroom                  8         266 287 294 301 306 581 680 682 
+been                     21        39 51 86 116 120 123 127 226 267 329 
+befell                   1         14 
+before                   2         509 698 
+beg                      1         49 
+began                    3         261 385 628 
+begin                    1         495 
+behind                   2         272 438 
+being                    4         38 174 492 620 
+belated                  1         513 
+belief                   1         158 
+believe                  2         399 401 
+bell                     1         561 
+belonged                 1         81 
+belongs                  1         337 
+beside                   1         617 
+besides                  1         119 
+best                     3         158 197 503 
+betray                   1         293 
+between                  2         543 604 
+bewildered               1         696 
+bid                      1         498 
+birds                    1         413 
+black                    6         133 258 284 468 533 687 
+blame                    1         731 
+blank                    1         601 
+blazes                   1         439 
+blind                    1         416 
+blue                     2         234 599 
+blunt                    1         238 
+bly                      1         101 
+borrow                   1         429 
+borrowed                 1         430 
+brandy                   1         116 
+breakfast                2         518 736 
+breast                   1         560 
+bright                   1         737 
+brightest                1         338 
+brilliant                1         337 
+bringing                 1         597 
+broad                    1         640 
+broke                    2         231 429 
+broken                   2         121 122 
+budge                    1         726 
+build                    1         505 
+burst                    1         618 
+burying                  1         617 
+business                 1         353 
+but                      22        13 32 38 78 88 132 133 144 242 280 
+butler                   1         717 
+by                       24        114 126 135 184 212 218 241 291 332 400 
+called                   2         41 381 
+callous                  1         620 
+came                     21        85 139 150 152 175 214 268 291 371 438 
+can                      14        36 48 49 148 209 242 439 467 505 591 
+candidate                2         62 64 
+cannot                   4         45 142 449 459 
+cant                     1         230 
+capable                  1         400 
+card                     1         340 
+care                     2         65 438 
+careful                  1         117 
+carefully                1         69 
+careless                 1         510 
+carelessly               1         85 
+carelessness             1         664 
+carpet                   2         201 210 
+carried                  3         213 221 688 
+carrying                 1         658 
+case                     7         126 149 263 434 505 591 628 
+cases                    2         46 180 
+cast                     1         607 
+caught                   2         293 679 
+caused                   2         11 224 
+central                  3         212 257 643 
+centre                   1         650 
+certain                  2         557 653 
+certainly                5         166 370 467 540 577 
+chair                    10        117 169 205 206 389 573 671 675 723 725 
+chairs                   1         390 
+chambers                 1         541 
+chance                   4         38 614 633 645 
+change                   2         464 705 
+chapter                  1         68 
+character                1         323 
+charmed                  1         428 
+charming                 1         269 
+charters                 1         26 
+chat                     1         462 
+check                    1         622 
+chemicals                1         53 
+chip                     1         244 
+chips                    1         498 
+choice                   1         477 
+chooses                  1         338 
+circumstances            1         444 
+clay                     4         134 468 533 687 
+clean                    1         131 
+cleanshaven              1         349 
+clear                    7         34 211 245 252 291 709 713 
+cleared                  1         735 
+cleverness               1         716 
+client                   1         184 
+close                    3         24 564 602 
+clothes                  2         272 280 
+cloud                    1         143 
+clue                     3         22 435 504 
+coincidence              1         632 
+collapsed                2         117 168 
+college                  8         15 46 75 144 185 326 420 718 
+colour                   1         234 
+combination              1         10 
+come                     11        169 181 209 255 372 434 435 537 548 588 
+commence                 1         542 
+commission               1         700 
+commit                   1         606 
+common                   1         251 
+companion                1         196 
+compelled                1         123 
+compete                  2         544 553 
+completed                1         70 
+conceal                  3         273 294 574 
+concerned                1         22 
+conclusion               1         524 
+conduct                  2         422 443 
+confessed                1         728 
+confession               1         614 
+confidencc               1         649 
+congenial                1         52 
+conjectured              1         661 
+consequences             2         89 497 
+consists                 2         61 68 
+contemplating            1         639 
+continue                 1         102 
+contraction              1         222 
+control                  1         615 
+convinced                2         106 135 
+copied                   2         122 221 
+copy                     1         675 
+corner                   2         390 601 
+correct                  1         70 
+corroborative            1         653 
+could                    26        64 100 203 214 214 217 250 289 293 352 
+course                   5         44 211 442 463 629 
+court                    1         185 
+courtmartial             1         558 
+courtyard                2         214 304 
+covered                  1         530 
+craned                   1         191 
+credit                   1         46 
+cricket                  1         326 
+cried                    3         455 610 694 
+criminal                 2         16 620 
+culprit                  2         543 683 
+curious                  3         427 431 447 
+curtain                  3         272 277 279 
+cut                      3         131 132 261 
+cuttings                 1         469 
+dal                      1         17 
+dandled                  1         727 
+dangerous                1         666 
+dare                     2         345 633 
+dark                     2         234 415 
+darkness                 1         470 
+darted                   1         680 
+day                      7         59 88 204 361 486 512 634 
+daylight                 1         640 
+days                     1         721 
+dead                     1         730 
+dear                     4         44 503 505 525 
+deed                     1         731 
+deepens                  1         681 
+defiance                 1         586 
+definite                 2         458 628 
+delicate                 1         320 
+denied                   1         105 
+deplorable               1         89 
+depressed                1         501 
+deprived                 1         52 
+described                1         18 
+description              1         651 
+desire                   2         40 145 
+desk                     1         72 
+despair                  1         549 
+details                  1         14 
+determined               1         699 
+devoid                   1         149 
+did                      11        364 367 390 436 442 493 501 573 635 703 
+didnt                    1         391 
+die                      1         17 
+difficulties             1         468 
+difficulty               1         419 
+dilemma                  2         140 542 
+dinner                   1         513 
+directing                1         263 
+direction                2         681 683 
+disclosed                1         279 
+discreetly               1         145 
+discretion               2         17 47 
+disgraceful              1         695 
+dismay                   2         455 601 
+dismiss                  1         629 
+dismissed                1         634 
+disposal                 1         182 
+dissipated               1         339 
+distractions             1         40 
+disturbance              1         350 
+disturbed                1         382 
+do                       18        39 49 222 273 293 295 330 360 397 402 
+does                     2         264 488 
+domestic                 1         427 
+donable                  1         105 
+done                     5         142 249 362 662 730 
+dont                     8         256 300 391 392 399 438 457 623 
+door                     27        77 85 108 170 186 193 199 218 228 264 
+doors                    1         75 
+double                   1         76 
+doubt                    1         504 
+dough                    1         134 
+doughy                   2         258 533 
+down                     9         223 389 416 442 517 573 595 720 725 
+downfall                 1         509 
+drawing                  1         429 
+drawn                    4         279 440 683 691 
+dread                    1         342 
+dreadful                 1         520 
+drew                     1         277 
+drop                     1         461 
+dry                      2         204 582 
+duced                    1         89 
+due                      1         17 
+duplicate                2         80 499 
+during                   2         13 383 
+dust                     1         135 
+each                     5         188 417 498 600 604 
+eager                    1         546 
+early                    3         26 461 697 
+earnestly                1         189 
+earnestness              1         106 
+earth                    1         684 
+easier                   1         621 
+easy                     1         467 
+effect                   1         214 
+effected                 1         305 
+effort                   1         644 
+eight                    1         514 
+either                   1         434 
+electric                 2         254 286 
+else                     2         141 161 
+emergency                1         279 
+employed                 1         656 
+employer                 1         719 
+end                      3         137 250 434 
+endeavour                1         20 
+ended                    1         262 
+engrossed                1         126 
+enigmatic                1         179 
+enough                   6         291 303 414 579 682 715 
+ensue                    1         143 
+enter                    4         11 364 633 665 
+entered                  10        84 109 155 193 211 218 228 562 635 649 
+enterprising             1         511 
+entirely                 1         149 
+entrance                 2         200 305 
+erect                    1         691 
+err                      1         619 
+errand                   1         426 
+escape                   2         215 679 
+escaped                  1         307 
+escaping                 1         712 
+essential                1         47 
+eternal                  1         507 
+even                     2         247 627 
+evening                  1         28 
+events                   2         10 21 
+ever                     2         603 606 
+every                    2         222 486 
+everything               2         293 568 
+evidence                 2         137 526 
+evident                  1         562 
+evoked                   1         45 
+exact                    1         448 
+exactly                  2         15 284 
+exam                     1         440 
+exami                    1         152 
+examina                  2         62 200 
+examination              11        59 117 141 314 342 458 459 486 542 549 
+examine                  1         629 
+examined                 2         271 638 
+examiners                1         60 
+examining                1         105 
+except                   1         194 
+excitable                2         31 56 
+exercise                 1         68 
+existed                  1         80 
+expect                   1         508 
+expelled                 1         340 
+explain                  1         58 
+explanation              1         142 
+exploit                  1         666 
+exposure                 1         695 
+expression               1         600 
+extraordinary            1         360 
+eyed                     1         432 
+eyes                     2         599 640 
+face                     5         351 576 586 599 617 
+faced                    1         460 
+fact                     2         217 279 
+facts                    1         543 
+failure                  1         502 
+fainted                  2         115 384 
+fair                     1         535 
+fallen                   1         738 
+far                      2         80 345 
+farther                  1         601 
+fashion                  1         457 
+father                   3         327 718 730 
+fear                     2         247 562 
+feared                   1         548 
+features                 1         616 
+feel                     1         385 
+feeling                  1         79 
+feet                     3         227 644 734 
+fel                      1         349 
+fell                     1         685 
+fellow                   12        168 327 333 338 425 432 441 478 479 488 
+fellows                  1         112 
+few                      4         36 86 323 541 
+fidget                   1         520 
+fifty                    1         350 
+figure                   1         598 
+file                     1         4 
+final                    1         503 
+finally                  3         306 430 600 
+find                     2         140 468 
+finding                  1         307 
+fine                     5         129 325 327 598 689 
+finger                   1         220 
+fingers                  1         352 
+finished                 2         210 514 
+first                    9         59 60 97 98 171 210 221 340 722 
+five                     2         450 530 
+flaxenhaired             1         425 
+flock                    1         485 
+flood                    1         241 
+floor                    7         94 98 187 271 281 332 337 
+flopped                  1         725 
+flushing                 1         441 
+follow                   1         242 
+follows                  1         253 
+foot                     1         450 
+footmarks                1         136 
+for                      35        4 19 38 46 59 82 97 110 204 217 
+forced                   2         272 641 
+forgetfulness            1         87 
+forgot                   3         373 679 719 
+formed                   1         524 
+forth                    1         56 
+forward                  1         341 
+foulmouthed              1         478 
+found                    8         79 83 93 115 131 133 541 698 
+four                     3         280 366 497 
+fourthirty               1         70 
+framework                1         302 
+frank                    2         604 614 
+frankly                  1         578 
+fresh                    3         123 141 526 
+friend                   5         19 41 127 501 537 
+friends                  2         51 71 
+from                     13        29 68 120 212 213 277 280 350 430 438 
+full                     1         608 
+furiously                1         231 
+furnished                1         24 
+further                  2         512 591 
+future                   3         28 737 738 
+gain                     1         111 
+game                     3         475 491 725 
+gate                     2         676 677 
+gathering                1         410 
+gave                     2         116 179 
+gentleman                1         400 
+gentlemans               1         718 
+gentlemen                1         403 
+gesticulation            1         56 
+get                      2         379 508 
+ghastly                  2         393 576 
+give                     4         21 147 557 591 
+given                    2         549 722 
+glad                     1         433 
+glance                   1         269 
+glanced                  2         196 600 
+glare                    1         286 
+gloom                    1         411 
+gloves                   4         674 679 723 723 
+go                       7         180 197 345 421 439 594 699 
+going                    3         456 593 701 
+good                     5         125 219 408 465 503 
+goodnight                1         453 
+got                      3         237 326 526 
+gracious                 2         295 456 
+grains                   1         260 
+great                    6         12 64 122 545 594 660 
+green                    2         76 506 
+grizzlyhaired            1         349 
+ground                   1         187 
+grounds                  2         657 686 
+guide                    3         194 441 455 
+guilty                   1         560 
+habit                    1         310 
+had                      53        31 34 37 51 51 69 71 78 83 84 
+hair                     1         567 
+half                     2         68 236 
+halfhumorous             1         502 
+halfpast                 1         366 
+halted                   1         189 
+hand                     4         372 532 615 632 
+hands                    3         139 546 617 
+hang                     1         272 
+hanging                  1         280 
+happened                 4         211 383 431 656 
+happy                    3         38 138 147 
+hard                     1         529 
+hardly                   3         204 320 544 
+hardworking              1         329 
+harm                     1         662 
+has                      11        62 81 88 127 211 329 341 383 460 504 
+have                     51        37 39 86 87 129 193 205 209 237 238 
+havent                   1         406 
+having                   1         640 
+he                       83        33 51 53 83 84 85 99 106 155 180 
+head                     1         308 
+hear                     2         322 703 
+heard                    1         678 
+heart                    1         482 
+heartily                 1         734 
+heaven                   1         548 
+heavens                  1         694 
+heavy                    1         76 
+height                   3         448 647 660 
+held                     5         244 253 285 459 532 
+help                     3         15 49 139 
+here                     10        197 203 257 384 388 394 495 559 603 696 
+heres                    1         494 
+hesitated                1         318 
+hideous                  1         143 
+hiding                   1         581 
+high                     3         499 644 738 
+him                      21        32 116 116 168 205 222 224 294 431 521 
+himself                  6         273 294 328 616 641 691 
+hinge                    1         303 
+his                      67        32 53 53 53 54 56 83 112 118 122 
+hole                     1         262 
+hollowed                 1         259 
+home                     1         736 
+homely                   1         53 
+honest                   2         492 494 
+honesty                  1         82 
+honourable               1         605 
+hooknosed                1         432 
+hope                     1         204 
+hopeless                 1         613 
+hoping                   1         254 
+horror                   1         608 
+host                     1         430 
+hour                     3         73 223 529 
+hours                    3         36 529 541 
+how                      3         605 642 738 
+however                  4         18 71 105 509 
+human                    1         619 
+humour                   1         126 
+hurdles                  1         326 
+hurried                  3         55 225 225 
+hurry                    2         122 169 
+hurrying                 1         227 
+idea                     1         641 
+identify                 1         15 
+identity                 1         137 
+idling                   1         341 
+if                       15        63 84 181 196 214 254 297 409 459 485 
+ill                      1         168 
+illustrate               1         19 
+imagined                 2         78 104 
+immense                  1         63 
+impatiently              1         308 
+important                1         452 
+imposing                 1         560 
+impossible               2         44 716 
+impressed                1         492 
+impressions              1         220 
+improved                 1         51 
+impulse                  1         664 
+in                       123       10 12 20 24 26 32 33 38 41 48 
+inch                     1         236 
+inches                   1         132 
+incident                 4         18 37 114 566 
+incredible               1         713 
+indeed                   7         83 444 504 665 669 703 734 
+indicate                 1         463 
+industrious              1         330 
+information              2         242 591 
+ing                      1         658 
+inhabit                  1         324 
+inhabited                1         332 
+injudicious              1         16 
+injustice                2         249 624 
+inscrutable              1         333 
+inside                   2         197 361 
+insisted                 1         428 
+instant                  4         78 104 597 653 
+instructive              1         13 
+intellects               1         338 
+intend                   1         703 
+interest                 2         149 232 
+interesting              2         102 261 
+into                     16        10 139 147 191 199 294 475 514 557 560 
+intruder                 1         118 
+investigating            1         353 
+invisible                2         305 472 
+irregularity             1         508 
+is                       74        44 45 46 46 47 58 60 62 65 82 
+it                       85        12 18 28 33 45 46 63 64 69 77 
+itself                   2         18 682 
+jagged                   1         262 
+judicial                 1         563 
+jump                     2         327 658 
+jumper                   1         652 
+jumping                  1         687 
+jumpingshoes             1         658 
+junkies                  1         4 
+just                     4         40 46 252 514 
+keep                     2         65 352 
+kept                     1         501 
+key                      9         77 83 85 87 108 357 371 373 663 
+kindly                   3         270 564 619 
+kindness                 1         594 
+knee                     1         727 
+knees                    1         617 
+knew                     6         80 166 392 635 698 723 
+knife                    2         238 430 
+knives                   1         488 
+knock                    1         437 
+knocked                  1         424 
+knocking                 1         443 
+know                     14        84 101 163 165 301 391 554 585 603 605 
+knowing                  1         175 
+known                    5         32 47 108 297 715 
+laborious                1         25 
+landlady                 1         506 
+language                 1         438 
+large                    5         61 109 238 303 494 
+last                     1         713 
+later                    1         597 
+latticed                 1         184 
+law                      1         45 
+lead                     4         121 234 264 302 
+learn                    1         482 
+learned                  3         194 197 257 
+least                    3         346 530 620 
+leather                  1         130 
+leave                    3         371 456 461 
+leaving                  1         87 
+lec                      1         29 
+lecturer                 1         199 
+led                      2         26 186 
+left                     21        72 78 85 93 95 99 116 118 135 168 
+length                   1         243 
+less                     3         223 443 644 
+let                      4         180 347 551 710 
+letter                   1         696 
+lettering                1         235 
+letters                  1         244 
+liberty                  1         105 
+library                  1         25 
+lichentinted             1         185 
+licked                   1         582 
+lied                     1         585 
+lies                     1         614 
+life                     1         351 
+light                    3         254 286 410 
+like                     4         134 269 284 417 
+likes                    1         320 
+limit                    1         21 
+line                     1         280 
+lips                     1         582 
+lithe                    1         598 
+little                   11        88 116 209 210 277 349 432 475 504 532 
+lives                    1         151 
+lock                     1         375 
+locked                   3         171 395 712 
+lodgings                 1         24 
+long                     8         92 132 184 221 236 327 367 513 
+longdistance             1         652 
+look                     7         109 147 322 341 347 369 607 
+looked                   8         81 91 189 191 471 483 667 674 
+looking                  2         393 413 
+looks                    2         134 304 
+loosened                 1         685 
+loss                     1         39 
+lost                     1         513 
+low                      4         184 274 350 738 
+lower                    1         324 
+lying                    2         94 121 
+made                     4         117 200 426 512 
+main                     2         475 676 
+make                     4         224 572 650 730 
+makers                   2         235 251 
+making                   1         543 
+man                      30        31 48 54 81 111 135 141 165 174 211 
+manly                    1         327 
+manner                   1         32 
+mans                     1         586 
+many                     1         383 
+markable                 1         20 
+marks                    1         135 
+mass                     1         258 
+master                   3         354 394 727 
+matter                   10        139 145 217 243 279 391 462 491 512 556 
+mattered                 1         87 
+may                      6         17 18 27 462 584 686 
+mcn                      1         324 
+me                       28        36 49 100 138 140 152 177 195 220 260 
+meals                    1         508 
+mean                     1         295 
+means                    2         551 660 
+measuring                1         642 
+mediaeval                1         427 
+men                      2         476 481 
+mental                   2         181 545 
+mentioned                2         403 651 
+mere                     1         132 
+message                  1         724 
+methodical               1         335 
+middle                   2         559 697 
+midst                    1         224 
+might                    4         111 159 255 305 
+miles                    1         530 
+mind                     3         219 467 628 
+minute                   2         270 395 
+minutes                  1         86 
+moment                   5         91 487 580 615 626 
+money                    1         109 
+more                     7         72 126 257 316 402 437 535 
+morning                  5         462 514 535 687 697 
+morrows                  1         440 
+most                     7         47 89 117 251 333 362 647 
+much                     7         41 55 114 252 262 382 392 
+must                     17        58 69 86 140 141 193 273 341 458 460 
+my                       37        19 20 27 40 44 70 72 77 78 79 
+myself                   2         11 528 
+mystery                  2         525 714 
+name                     2         235 251 
+names                    1         424 
+narratives               1         28 
+nation                   1         153 
+natural                  2         728 729 
+naturally                1         63 
+near                     5         94 388 390 592 671 
+nearly                   4         115 340 384 506 
+neck                     1         191 
+need                     3         11 603 642 
+needed                   1         653 
+nervous                  2         31 510 
+nervousness              1         352 
+nests                    1         413 
+never                    4         383 609 609 719 
+new                      1         129 
+next                     3         223 486 616 
+night                    1         697 
+nine                     1         506 
+no                       20        40 44 136 136 193 203 220 292 321 512 
+none                     1         443 
+not                      46        11 51 62 70 129 132 143 149 166 181 
+notebook                 1         429 
+nothing                  14        196 256 271 280 464 464 481 487 504 528 
+notice                   1         508 
+notorious                1         328 
+now                      10        40 167 209 247 452 560 584 585 612 709 
+oak                      1         76 
+object                   1         574 
+observe                  2         232 680 
+observed                 2         108 301 
+obtained                 1         654 
+obvious                  1         14 
+obviously                1         433 
+occasion                 2         33 88 
+occasionally             1         362 
+occurred                 3         34 138 622 
+oclock                   1         67 
+of                       130       8 10 12 19 27 27 30 31 33 36 
+offensive                1         16 
+offered                  1         700 
+office                   1         630 
+old                      4         185 717 719 721 
+oldest                   1         420 
+oldfashioned             1         270 
+on                       37        32 62 78 88 94 94 98 133 144 144 
+once                     4         45 368 702 737 
+one                      44        12 27 28 46 48 60 76 76 88 93 
+only                     13        79 133 144 236 297 497 503 534 578 614 
+open                     6         170 286 307 377 437 599 
+opened                   2         184 425 
+opening                  1         193 
+opposite                 1         641 
+or                       7         15 21 134 141 280 395 689 
+order                    3         111 573 643 
+ordered                  1         499 
+ordinary                 1         233 
+other                    8         88 118 136 242 363 390 605 632 
+others                   3         250 317 472 
+our                      16        12 55 75 184 189 194 196 426 430 436 
+ourselves                2         557 557 
+out                      20        17 85 108 244 259 285 304 379 468 470 
+outer                    6         77 199 228 234 375 436 
+outstretched             1         546 
+over                     11        69 112 213 221 340 389 421 462 592 664 
+overcoat                 1         148 
+overwhelmed              1         241 
+own                      3         78 431 630 
+paced                    1         471 
+pacing                   2         416 480 
+page                     1         98 
+pain                     1         538 
+painful                  2         16 37 
+palm                     2         286 532 
+pane                     1         194 
+paper                    5         63 65 67 122 254 
+papers                   21        61 92 105 109 115 119 136 141 150 157 
+parlour                  1         475 
+part                     1         493 
+particular               2         21 32 
+particulars              1         152 
+partly                   1         305 
+pass                     1         390 
+passage                  2         61 62 
+passed                   4         306 643 660 662 
+passes                   1         604 
+passing                  2         107 311 
+passionate               1         618 
+path                     1         708 
+peas                     1         506 
+peep                     1         417 
+pegs                     1         281 
+pellet                   1         258 
+pencil                   10        120 122 231 233 237 252 429 469 498 500 
+people                   1         22 
+perceive                 1         259 
+perceived                1         663 
+pered                    1         175 
+perfectly                4         467 492 494 604 
+perhaps                  1         345 
+personally               1         421 
+physical                 1         181 
+piece                    1         235 
+pieces                   1         427 
+pit                      1         688 
+pitiable                 1         540 
+pity                     1         584 
+place                    1         21 
+plays                    1         325 
+pleasant                 1         599 
+please                   5         409 424 558 565 592 
+pleased                  1         703 
+pled                     1         340 
+plump                    1         351 
+pocket                   1         79 
+point                    2         123 713 
+pointed                  1         706 
+points                   1         242 
+police                   1         42 
+polished                 1         256 
+poor                     3         168 329 727 
+position                 3         457 463 613 
+positive                 4         132 261 521 522 
+possesses                1         238 
+possi                    1         100 
+possibility              1         639 
+possible                 4         222 418 462 678 
+possibly                 1         631 
+postponed                1         141 
+poured                   1         56 
+powers                   2         48 557 
+practical                1         309 
+practis                  1         657 
+prefer                   1         41 
+prepare                  1         64 
+prepared                 3         130 142 278 
+preparing                1         486 
+presence                 1         119 
+presume                  1         258 
+pretend                  1         666 
+prevent                  1         689 
+printed                  2         62 235 
+printer                  2         164 629 
+printers                 1         68 
+prisoner                 1         297 
+private                  1         558 
+pro                      1         88 
+probable                 1         579 
+problem                  3         189 510 735 
+proceed                  2         550 551 
+produced                 1         498 
+profit                   2         703 731 
+profiting                1         400 
+promised                 1         71 
+proof                    2         72 92 
+proofs                   12        67 159 163 174 321 322 631 653 661 665 
+prove                    2         436 579 
+provided                 1         659 
+public                   2         543 556 
+purpose                  1         705 
+pursuing                 1         25 
+put                      7         123 139 529 537 670 671 674 
+putting                  1         148 
+puttylike                1         284 
+puzzle                   1         488 
+puzzling                 1         493 
+pyramid                  1         284 
+pyramidal                1         259 
+pyramids                 1         532 
+quadrangle               2         409 470 
+quarter                  1         222 
+queer                    1         483 
+question                 2         320 667 
+quiet                    2         333 351 
+quietly                  1         145 
+quit                     1         509 
+quite                    4         205 393 420 603 
+ran                      1         545 
+rascal                   2         121 552 
+rather                   2         72 444 
+re                       1         19 
+reached                  1         188 
+read                     2         69 298 
+reader                   1         15 
+realize                  2         442 457 
+really                   4         38 243 392 427 
+reason                   3         64 316 645 
+reasons                  1         714 
+received                 1         28 
+recognized               2         159 174 
+record                   1         479 
+recovered                1         205 
+recovering               1         125 
+red                      1         130 
+refuge                   1         684 
+relate                   1         14 
+released                 1         581 
+remain                   1         592 
+remaining                1         236 
+replace                  1         226 
+reproach                 1         608 
+researches               3         26 26 495 
+residing                 1         24 
+resignation              1         502 
+resolve                  1         557 
+response                 1         447 
+rested                   1         600 
+restless                 3         32 414 697 
+results                  1         27 
+retreat                  1         225 
+return                   2         224 676 
+returned                 3         381 597 658 
+rifled                   1         136 
+right                    3         79 181 708 
+rigidity                 1         278 
+ring                     1         561 
+rise                     1         739 
+rising                   1         148 
+risk                     1         111 
+roared                   1         439 
+roll                     2         174 631 
+rolled                   1         158 
+room                     29        82 84 86 118 150 161 187 191 200 270 
+rooms                    5         71 324 420 431 641 
+roots                    1         567 
+round                    5         139 180 269 461 684 
+routine                  1         351 
+rude                     1         441 
+ruined                   2         328 718 
+rummaged                 1         92 
+rumpled                  1         119 
+run                      2         111 504 
+rushed                   1         294 
+said                     36        99 125 148 180 194 195 203 217 242 282 
+sake                     1         720 
+same                     3         152 363 431 
+sample                   1         685 
+sat                      4         389 391 513 573 
+satisfactory             1         488 
+save                     2         164 728 
+saw                      8         118 134 368 660 669 687 722 724 
+sawdust                  2         260 689 
+say                      6         205 230 260 309 399 449 
+scan                     1         16 
+scandal                  3         47 143 340 
+scene                    1         189 
+scholar                  2         325 329 
+scholarship              2         110 544 
+scrapbooks               1         53 
+scratch                  3         132 262 680 
+searching                1         435 
+second                   3         98 332 685 
+secret                   1         65 
+see                      19        77 140 209 214 220 246 256 261 271 434 
+seem                     1         457 
+seemed                   1         632 
+seems                    5         177 204 287 414 579 
+seen                     2         62 406 
+seized                   1         223 
+seldom                   1         500 
+separate                 1         302 
+servant                  8         81 204 348 491 511 610 664 719 
+serve                    1         21 
+serves                   1         18 
+set                      3         419 586 708 
+settle                   1         145 
+seventhirty              1         507 
+several                  2         120 659 
+shall                    6         147 461 467 495 509 553 
+shallow                  1         274 
+shape                    2         259 628 
+share                    1         509 
+sharp                    1         659 
+sharpen                  2         232 430 
+sharpened                1         120 
+sheet                    4         212 212 675 675 
+shock                    1         695 
+shoe                     1         682 
+shoes                    2         670 679 
+shone                    1         410 
+shook                    1         308 
+should                   10        39 41 269 360 417 480 493 633 728 729 
+shoulders                2         54 502 
+show                     2         530 682 
+shown                    1         574 
+shrank                   1         562 
+shreds                   1         120 
+shrugged                 2         54 502 
+side                     5         94 218 650 677 681 
+sideways                 1         253 
+signs                    1         203 
+silent                   1         432 
+silhouette               1         415 
+silver                   1         235 
+simple                   1         715 
+simply                   1         666 
+sin                      1         698 
+since                    8         18 51 142 225 267 273 580 711 
+singular                 2         195 389 
+sir                      33        44 355 359 362 370 376 378 380 383 384 
+sittingroom              2         184 288 
+situation                1         460 
+six                      3         450 529 644 
+size                     2         234 500 
+slight                   1         681 
+slim                     1         425 
+slipping                 1         690 
+slips                    1         93 
+sly                      1         479 
+small                    7         13 133 244 253 258 284 557 
+smile                    1         179 
+smiled                   1         195 
+smooth                   1         131 
+so                       18        27 71 80 130 204 214 231 292 304 345 
+sobbing                  1         618 
+soft                     1         234 
+solved                   2         510 525 
+some                     13        12 19 25 152 255 277 427 458 463 468 
+someone                  3         91 107 640 
+something                4         34 134 521 530 
+somewhat                 1         241 
+son                      1         720 
+soon                     1         118 
+sort                     1         476 
+source                   1         536 
+space                    1         244 
+spare                    2         30 36 
+speak                    1         729 
+speaking                 1         107 
+specimen                 1         688 
+specks                   1         134 
+speedily                 1         654 
+spend                    1         11 
+spike                    1         684 
+spikes                   1         659 
+spoke                    1         258 
+spoken                   1         585 
+spring                   1         375 
+springing                1         734 
+springy                  1         599 
+squares                  1         410 
+staggered                1         607 
+stair                    4         152 227 310 442 
+staircase                1         186 
+stake                    1         109 
+stand                    1         544 
+standing                 1         190 
+state                    2         33 540 
+statement                2         20 102 
+stationers               2         494 497 
+stay                     1         367 
+stayed                   2         45 394 
+steady                   1         335 
+step                     2         595 599 
+still                    5         350 352 471 542 544 
+stirred                  1         97 
+stock                    1         501 
+stone                    1         186 
+stood                    1         200 
+stooped                  1         281 
+storm                    1         618 
+story                    2         56 188 
+straight                 2         139 268 
+strangers                1         485 
+street                   1         475 
+strewn                   1         689 
+strike                   1         560 
+striking                 1         27 
+strips                   1         220 
+student                  4         151 174 598 691 
+students                 4         187 310 511 646 
+studies                  1         434 
+study                    1         285 
+stuff                    1         284 
+suavely                  1         578 
+subject                  3         27 60 334 
+substantial              1         437 
+such                     9         20 33 44 147 169 236 401 606 731 
+sudden                   2         350 664 
+suddenly                 3         137 281 415 
+suffering                1         350 
+sufficient               1         505 
+sufficiently             1         560 
+suggestion               1         578 
+suggestions              2         572 650 
+suits                    1         280 
+sullen                   1         586 
+sum                      1         109 
+suppose                  2         275 450 
+supposing                1         639 
+surely                   1         456 
+surface                  2         130 256 
+surprise                 1         562 
+surroundings             1         52 
+suspect                  3         316 344 397 
+suspicion                2         83 321 
+suspicions               1         322 
+suspicious               1         445 
+swear                    1         130 
+swiftly                  1         416 
+swinging                 1         303 
+table                    22        91 94 119 133 157 209 210 212 213 253 
+take                     9         71 210 222 408 458 468 477 559 628 
+taken                    3         65 104 683 
+talking                  1         296 
+tall                     5         30 425 450 598 642 
+taller                   1         449 
+tam                      1         174 
+tampered                 2         116 460 
+tan                      2         689 723 
+task                     1         70 
+tea                      3         71 84 366 
+team                     2         325 326 
+tear                     1         261 
+teatray                  1         372 
+tell                     9         226 295 323 448 520 522 565 621 714 
+temper                   1         51 
+temperament              1         31 
+temptation               1         670 
+ten                      1         82 
+tenacious                1         687 
+ter                      1         131 
+term                     1         341 
+terms                    1         20 
+terror                   1         560 
+text                     2         4 69 
+than                     5         72 316 437 450 645 
+that                     123       10 13 14 27 28 33 36 41 58 75 
+thats                    2         219 584 
+the                      326       8 10 13 15 15 15 17 21 22 24 
+their                    2         413 724 
+them                     15        93 93 175 175 213 245 316 406 414 417 
+then                     4         323 463 572 670 
+there                    28        78 121 143 163 176 196 203 207 213 226 
+these                    8         135 163 324 361 369 390 640 660 
+they                     9         27 158 176 314 481 631 661 665 669 
+thin                     2         255 262 
+thing                    5         257 363 383 652 722 
+things                   1         144 
+think                    9         256 291 392 474 523 556 559 646 735 
+third                    3         95 99 436 
+this                     41        13 32 45 64 67 88 133 142 165 173 
+those                    4         19 46 333 723 
+though                   2         334 512 
+thought                  5         138 372 513 630 676 
+three                    18        67 92 132 187 220 280 302 310 323 324 
+threecard                1         476 
+through                  4         193 255 306 641 
+throw                    2         143 321 
+thrown                   1         616 
+time                     11        13 24 37 97 225 296 366 377 480 513 
+times                    1         363 
+tion                     3         63 201 541 
+tip                      1         121 
+tiptoe                   1         190 
+to                       152       11 14 15 17 18 20 21 21 22 24 
+tobacco                  1         507 
+together                 2         93 688 
+toilet                   1         515 
+told                     3         568 627 690 
+tomorrow                 2         58 461 
+tonight                  1         459 
+too                      3         274 274 487 
+took                     3         212 649 675 
+top                      2         337 478 
+torrent                  1         438 
+tossed                   1         223 
+towards                  1         545 
+town                     3         39 138 498 
+towns                    1         12 
+trace                    1         255 
+traces                   3         118 287 306 
+translation              1         61 
+trick                    1         476 
+tried                    1         615 
+triumphantly             1         674 
+trouble                  1         623 
+troubled                 1         599 
+true                     1         692 
+trust                    2         36 737 
+truth                    4         107 565 585 690 
+try                      1         729 
+trying                   1         482 
+turer                    1         30 
+turf                     1         328 
+turned                   4         281 528 567 580 
+tutor                    5         29 510 540 597 676 
+tutors                   1         187 
+twilight                 1         188 
+twitching                1         351 
+two                      3         529 534 546 
+unable                   1         579 
+uncomfortable            1         54 
+uncontrollable           1         33 
+uncourteous              1         444 
+under                    2         444 640 
+understand               4         309 357 385 730 
+understood               2         426 724 
+undertake                1         449 
+undoubtedly              1         115 
+unexpected               1         291 
+unfair                   1         704 
+unfortunate              3         362 540 607 
+ungracious               1         54 
+unhappy                  1         353 
+university               4         12 144 339 400 
+unless                   1         173 
+unlikely                 1         346 
+unlocked                 1         199 
+unpar                    1         104 
+unprinci                 1         339 
+unscrupulous             1         110 
+unstained                1         131 
+unthinkable              1         632 
+untidiness               1         53 
+until                    6         141 270 292 520 651 726 
+untimely                 1         529 
+unusual                  3         34 420 646 
+up                       14        158 171 293 334 414 416 471 505 549 594 
+upon                     10        72 88 175 204 255 285 416 435 601 661 
+upraised                 1         615 
+upset                    1         114 
+us                       19        14 180 199 210 309 322 347 410 426 432 
+use                      1         310 
+used                     1         687 
+ushered                  1         199 
+using                    1         222 
+usual                    2         234 500 
+usually                  1         253 
+utmost                   1         106 
+utterly                  1         44 
+valuable                 3         37 110 544 
+value                    1         487 
+venture                  1         399 
+very                     27        34 37 40 84 86 102 110 111 114 168 
+visit                    3         29 85 436 
+visited                  1         149 
+visitor                  2         55 287 
+visitors                 1         421 
+voice                    1         439 
+wait                     1         270 
+walk                     1         408 
+walked                   1         686 
+want                     2         181 605 
+wanted                   2         84 289 
+wardrobe                 1         274 
+warning                  1         292 
+was                      106       10 12 19 25 28 30 33 34 53 70 
+wasnt                    1         729 
+watched                  1         720 
+watching                 1         647 
+way                      5         195 292 307 468 483 
+wayward                  1         339 
+we                       22        28 115 188 197 296 297 408 424 441 470 
+weak                     1         334 
+weeks                    1         12 
+welcome                  1         426 
+well                     9         17 47 111 288 330 334 494 623 724 
+went                     4         395 517 712 726 
+were                     33        24 120 135 136 138 157 158 176 187 227 
+what                     11        39 49 211 474 526 604 622 631 643 661 
+when                     19        85 115 137 188 224 338 361 385 394 426 
+where                    8         25 46 95 99 321 391 622 657 
+wherever                 1         536 
+whether                  1         301 
+which                    22        10 13 15 19 26 61 80 80 120 134 
+while                    3         55 117 200 
+white                    1         567 
+whitefaced               1         349 
+who                      17        48 81 125 136 151 174 310 324 328 400 
+whole                    1         652 
+whom                     3         344 404 727 
+whose                    2         82 415 
+why                      1         704 
+will                     18        14 20 143 143 270 322 323 330 402 408 
+window                   12        95 98 119 185 190 207 213 301 638 660 
+windows                  2         302 471 
+wish                     1         453 
+with                     30        55 106 116 129 134 175 190 210 234 244 
+withdrew                 2         368 442 
+within                   3         76 86 428 
+without                  5         76 142 175 505 518 
+wits                     1         137 
+wont                     1         440 
+wood                     1         245 
+word                     6         250 403 405 603 609 610 
+words                    3         55 323 613 
+work                     3         334 338 530 
+world                    3         48 419 720 
+worn                     1         186 
+worst                    1         479 
+worth                    1         647 
+wouid                    1         221 
+would                    22        15 16 21 63 87 163 226 293 372 399 
+writhing                 1         616 
+writingtable             1         129 
+wrong                    1         622 
+wrote                    3         231 255 697 
+year                     2         10 341 
+years                    2         82 384 
+yellow                   1         410 
+yesterday                4         534 573 606 721 
+yesterdays               1         565 
+yet                      2         70 479 
+yielded                  1         670 
+yonder                   1         390 
+you                      111       36 41 48 49 49 58 99 100 138 147 
+young                    9         151 425 594 607 656 672 711 717 727 
+yours                    2         477 595 
+your                     45        37 38 48 102 127 139 150 157 161 170 
+
+
+Statistics for File Read: novel1.txt
+Total number of Paragraphs: 68
+Total Number of Lines: 739
+Total number of Words: 6539
+
+4.816 Second(s) taken to process the file.
+
