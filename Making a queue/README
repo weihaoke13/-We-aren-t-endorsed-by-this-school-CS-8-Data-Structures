@@ -1,0 +1,3 @@
+1. Verify the the code developed in class works as described. In order to verify that the code works, you must create a driver program that exercises each element of the queue, including reading from,and writing to, a file and/or the terminal.
+
+2. Using the same interface (meaning the class definition in the header file), construct a n array based-version of the queue. 
