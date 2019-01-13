@@ -1,0 +1,49 @@
+Introduction: 
+
+Towers of Hanoi is a simple game, and a “standard” Computer Science problem in Data Structures at virtually every university. The Towers of Hanoi problem is usually used to demonstrate the use of recursion in algorithms. We, on the other hand, are going to look at how we can represent and solve the game using stacks and queues.
+
+The objective of the game is to move the stack of disks (as shown in the above picture) to a rod on the extreme right obeying the following rules:
+
+Only one disk can be moved at a time
+A larger disk cannot be placed over a smaller disk
+Implementation Requirements
+
+1)     Create a class, named Stack. The stack should have the following methodsi) push(item)
+
+push(): Pushes an item into the stack
+ pop() : Pops an item from the stack
+peek() : See what is at the top of stack without doing a pop
+isEmpty() : See if the stack is empty
+isFull() : See if the stack is full
+sizeof() : Return the size of the stack
+quantity(): Returns the number of elements in the stack
+ 
+
+2)     Create a class Queue the following methods:
+
+ienqueue(item): Insert the item into one side of the queue, if possible
+dequeue(): Remove an element from the other side of the queue, if possible
+isEmpty(): Returns true if the queue is empty
+isFull(): Returns true if the queue is full
+peek(): Returns the value of the first element in the queue
+sizeof(): Returns the size of the queue
+quantity(): Returns the number of elements in the queue
+3)    Create a class Disk, which will “intelligently” create disks of the appropriate size. That is, if a disk of size X has just been created, then the next disk will be of size X + 1. This class must also containa interface function that returns size of the disk.
+
+4)   Create a class Board which contains three rods that can hold Disks. This class must be able to signify the starting peg and ending peg. This class must also have an interface that will enable the solving of the puzzle.
+
+ Problem statement:
+
+The objective is to solve the problem for N disks, where N >= 3, without using recursion. It is best if you try doing this problem manually on paper before you attempt to code the project. When you do code the project, the stacks must be implemented in linked-lists and queues must be implemented as an array-based priority queue.
+
+To begin with, you will develop a program using stacks.
+
+You will have to create three stack objects representing the rods
+You need to push the N disk objects onto the rods
+Then you will pop from one rod and push it onto another rod based upon an iterative algorithm
+Repeat this process while making sure that you are not placing a larger disk over a smaller one
+Now instead of using the stack class, use the priority queue class to represent the rods. Follow the steps above with modifications needed to model and solve the problem with priority queues. At the beginning of the program, print out the contents of the stack/queue, populate the first stack and print out the contents (stack/queue), do this (printing out contents of stack/queue) after each move until the final step where the third rod is populated with all the three disks.
+
+In each case (stack/queue) you will have to measure and report the runtime using the appropriate C++ time functions. Which approach do you think is better and why?
+
+ 
