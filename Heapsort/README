@@ -1,0 +1,5 @@
+1, Correct the heapsort program done in class so that works correctly for any data type that has "weak ordering" operators defined.
+
+2. Modify the program so that the insertion operator will be used to signify whether the sort is ascending or descending. .
+
+3. Modify the program above (2) so that the insertion operator will accept a vector of unsorted data and the extraction operator will return a vector of integers, where the integer value is the index of the item in the original list that needs to be printed, used, etc. (The zero index of the output vector will be the first item in the sorted order, and so forth)
