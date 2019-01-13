@@ -1,0 +1,3 @@
+1. Modify the mergesort example in class so that it functions correctly for  any data type that has a weak ordering can be used. Make sure you use a good sort!
+
+2. Create a program that will use the mergesort to merge two already sorted linked-lists into one. Example, suppose that you have two priority queues implemented in a linked-lists. Now, one of the queues has to be "shut down" but all of the people in the queue must go into the other queue.
