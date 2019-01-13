@@ -1,0 +1,24 @@
+In order to assist editors, you and your teammate will write a program (first using heaps, the second time using binary trees) to do a frequency count of all of the words contained in a document. At the end of processing a document, your program should provide the editor with the following information:
+
+1.     A summary page that gives the word count, paragraph count, reading level, the 10 most frequently used words, the number of words which begin with each letter of the alphabet, and the total time to process the document. Numeric constants, punctuation, and so forth should be ignored.
+
+2.     The above is to be followed by each word, in alphabetical order, with the first letter capitalized, with its frequency of occurrence, the lines and paragraphs in which it occurred, all in an “easy to understand” fashion.
+
+3.     Lastly, the editor should be afforded the opportunity to save any of the above information into a file.
+
+In order to make this a “fair competition” between the Heap and Binary Tree versions, the following rules will be implemented:
+
+1.     For Binary Trees
+
+a.     Nodes on the Binary Tree can contain multiple word counts as well as all of the other information required. (That is, duplicate nodes for the "word" are NOT allowed. The node will carry multiple pieces of information: the word, the line numbers, and the count).
+
+b.     The Binary Tree must be implemented in an orchard of trees that, where each tree is built using a "linked list-based" structure.
+
+                                               i.    Each time an item is “printed,” it must be deleted from the tree and the tree adjusted accordingly. "Adjusted" means that the tree must be re-balanced if necessary. Notice that this implies that the tree balaces itself after each insertion. And, of course, this means the tree is an AVL tree!
+
+2.     For Heap
+
+a.     Each entry is a new node (this, if you have five "the"s then there are five nodes with "the" in it) . An entry is the word and its position in the document.
+
+b.     As with the Binary Tree, the Heap must be implemented as an "orchard" of :"array-based" structures.(there really is not an "orchard" of heaps, but this actually means a heap for each letter of the alphabet)
+
